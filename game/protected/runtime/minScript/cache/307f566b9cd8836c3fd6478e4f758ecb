@@ -1,0 +1,121 @@
+a:2:{i:0;s:18032:"1396281726|html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{}div{}h1{color:#666;font-size:28px;height:28px;line-height:28px;font-weight:bold}h2{color:#666;font-size:24px;height:24px;line-height:24px;font-weight:bold}body{color:#fff;font-size:12px;font-family:"Arial","Helvetica Neue",Helvetica,Arial,sans-serif;line-height:1.6}a{text-decoration:none;outline:none;color:#07519a}a:hover,a:active,a:focus{text-decoration:underline;color:#f60}.a_block{background:#900;padding:5px;color:#fff}.a_block:hover,.a_block:active,.a_block:focus{text-decoration:none;color:#fff}.link_white{color:#fff}.link_white:hover,.link_white:active,.link_white:focus{color:#fff}.link_black{color:#484848}.link_black:hover,.link_black:active,.link_black:focus{color:#f00}.link_blue{color:#07519a}.link_blue:hover,.link_blue:active,.link_blue:focus{color:#f60}.link_red{color:#f00}.link_gray{color:#333}.top{width:980px;height:80px;margin:0px
+auto 0px auto;overflow:hidden}.top_bar{height: 30px;line-height: 30px;border-bottom: 1px solid #E6F5FF;background:url("http://bcs.duapp.com/youxires/web/topbar_bk.png") repeat-x;width: 100%;z-index: 100}.top_bar_hzw{height:30px;line-height:30px;width:100%;z-index:100;position:fixed;border-bottom:1px solid #ededed;background:#fff}.content{width:980px;margin:0
+auto;overflow:hidden}.navbar_ul{margin:0px;padding:0px;list-style:none;padding-top:7px}.navbar_item{}.navbar_ul
+li{margin-top:0px;height:30px;line-height:30px;float:left;overflow:hidden;font-size:14px;font-weight:bold;background:url(http://bcs.duapp.com/youxires/web/nav2.png) no-repeat;background-position:-158px -81px}.navbar_ul li
+a{color:#fff;display:block;text-align:center;width:43px;height:30px;line-height:22px;margin:0px
+2px;padding-top:1px}.navbar_item_selected
+a{color:#333 !important;;text-decoration:none;background:url(http://bcs.duapp.com/youxires/web/nav2.png) no-repeat;background-position:0px -120px}.navbar_ul li a:hover{color:#333;text-decoration:none;background:url(http://bcs.duapp.com/youxires/web/nav2.png) no-repeat;background-position:0px -120px}.navbar_div{width:980px;margin:0px
+auto;position:relative;top:0px;height:37px;background:url(http://bcs.duapp.com/youxires/web/mainpic_newbg.png)}.column_line{height:28px}.column_line_head{padding-left:6px;width:37px;float:left;height:17px;line-height:17px;overflow:hidden;margin:4px
+0 0 3px}.column_bk_1{background:url(http://bcs.duapp.com/youxires/web/icon_bk.png) no-repeat 0 -38px}.column_bk_2{background:url(http://bcs.duapp.com/youxires/web/icon_bk.png) no-repeat 0 -55px}.column_bk_3{width:60px;height:20px;background:url(http://bcs.duapp.com/youxires/web/icon_bk.png) no-repeat 0 -241px}.div_full_row{border-top:0px;width:980px;margin:0px
+auto;background:#fff}.div_full_row_transparent{border-top:0px;width:980px;margin:0px
+auto}.block_head{height:27px;padding-left:9px;position:relative;background:url(http://bcs.duapp.com/youxires/web/mainpic_index.png) no-repeat;background-position:0 -56px;background-repeat:repeat-x;border-top:1px solid #fff}.block_head_darkblue{position:relative;height:28px;background:url(http://bcs.duapp.com/youxires/web/mainpic_index.png) no-repeat;background-position:0 -27px;background-repeat:repeat-x;border-bottom:1px solid #cfe1ee;font:bold 14px/28px arial;color:#666}.block_head_darkblue
+strong{font-family:"Microsoft YaHei";display:inline;font:bold 14px/28px "simsun";color:#333;margin-left:10px}.h2title{padding-left:20px;display:inline-block;height:27px;padding-top:0px;margin-top:0px;color:#333;font:700 14px/27px Arial}.game_piclist{padding:0
+10px 5px;overflow:hidden;position:relative;margin-left:0px;background:#fff}.game_piclist
+li{width:90px;margin-top:-1px;padding:9px
+22px 8px 0;border-top:1px dotted #ccc;display:block;float:left;vertical-align:top;letter-spacing:normal;word-spacing:normal;position:relative;zoom:1;height:120px;overflow:hidden;text-align:center}.more{position:absolute;top:0;right:10px;font-family:simsun;font:normal 12px/28px simsun;color:#333}.hotflag{position:absolute;left:5px;width:37px;height:38px;top:0px;background:url(http://bcs.duapp.com/youxires/web/mainpic_newbg.png) no-repeat;background-position:-214px -230px;background-repeat:no-repeat}.icon-hot{position:absolute;left:-1px;top:-2px;width:33px;height:33px;text-indent:-9999em;display:block;background:url(http://bcs.duapp.com/youxires/web/icon-hot.png) no-repeat;_background:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',src='http://bcs.duapp.com/youxires/web/icon-hot.png',sizingMethod='scale')}.newflag{position:absolute;left:5px;width:37px;height:38px;top:0px;background:url(http://bcs.duapp.com/youxires/web/mainpic_newbg.png) no-repeat;background-position:-214px -170px;background-repeat:no-repeat}.rank-tab{position:relative;height:28px;background:#def3fc;border-bottom:1px solid #c8dff0;margin:0
+0px 0 0;line-height:28px;text-align:center}.rank-tab-hzw{position:relative;height:28px;background:#178DE0;border-bottom:1px solid #c8dff0;margin:0
+0px 0 0;line-height:28px;text-align:center;color:#fff}.rank-list-box{padding:1px
+0px;border:0px
+solid #c7deef;border-top:0px;background:#fff}.rank-list{list-style:none;padding:0px;margin:0px;background:#fff}.rank-list
+li{position:relative;height:63px;padding:9px
+9px 9px 33px;border-bottom:1px dotted #dbdbdb}.rank-list li
+em{position:absolute;top:18px;left:10px;height:16px;width:18px;text-align:center;font:bold 12px/16px Tahoma;color:#666}.rank-list li .em1, .rank-list li .em2, .rank-list li
+.em3{text-indent:-999em;overflow:hidden;background:url(http://bcs.duapp.com/youxires/web/top.png) no-repeat 0 0}.rank-list li
+.em2{background-position:0 -25px}.rank-list li
+.em3{background-position:0 -50px}.rank-list li
+h3{padding:5px
+0 0;height:17px;font:normal 12px/17px "Simsun";overflow:hidden}.img_app_link{float:left;margin:0
+8px 0 0;position:relative}.img_app_60_2,.img_app_188,.img_app_65{position:absolute;left:0px;top:0px;background:url(http://bcs.duapp.com/youxires/web/img_app.png) no-repeat;z-index:1;zoom:1;cursor:pointer}.img_app_60_2{width:60px;height:60px;background-position:-189px -142px}.subject_list{list-style:none;overflow:hidden;padding:10px
+0 10px 15px;zoom:1;margin:0px}.subject_list
+li{float:left;height:30px;line-height:30px;overflow:hidden;padding-left:22px;width:97px;background:url(/game/assets/img/subject.gif) no-repeat left}.tag_noselected{padding:2px
+5px 3px 5px;font-size:10px;height:12px;line-height:12px;color:#000}.tag_noselected:hover{background:#3BACEF;color:#fff;text-decoration:none}.tag_selected{color:#fff;background:#3BACEF;padding:2px
+5px 3px 5px;font-size:10px;height:12px;line-height:12px}.tag_selected:hover{color:#fff;text-decoration:none}.game_slide{width:336px;float:left}.game_main{width:621px;float:left;padding:0px
+10px;border-left:1px dotted #ccc}.game_main
+.tit{color:#F60;font:bold 18px/24px "Microsoft YaHei";padding:15px
+20px 5px 10px;margin-bottom:8px;border-bottom:1px dotted #ccc}.game_main
+h1{display:inline;font:bold 18px/22px "Microsoft YaHei";padding:0;margin:0;color:#f60}.game_param{white-space:normal;word-break:break-all;list-style:none;margin:0px;padding:0px}.game_param
+li{float:left;margin:0px;margin-right:15px;height:26px;line-height:26px;color:#333;font-size:14px;padding:0px}.game_start{margin-top:10px;border-top:1px dotted #ccc;line-height:26px;font-size:14px;color:#333;padding:0
+20px 0 10px}.gamestartbutton{margin:10px
+auto 10px auto;width:198px;height:55px;text-indent:-9999em;background:url(http://bcs.duapp.com/youxires/web/button_image.png) 0 -165px;display:block}.gamestartbutton:hover{background:url(http://bcs.duapp.com/youxires/web/button_image.png) 0 -110px}.game_introduce_title{font-size:14px;color:#000;font-weight:bold}.footer{margin:10px
+auto;width:980px;clear:both;overflow:hidden;color:#384349;line-height:24px}.footer_t{width:960px;height:87px;overflow:hidden;color:#384349;text-align:center;padding-top:12px;position:relative}.footer_c{width:958px;background:#fff;border-left:1px solid #acdb6d;border-right:1px solid #acdb6d;overflow:hidden}.b1{width:960px;height:7px;overflow:hidden;background:url(http://bcs.duapp.com/youxires/web/bg.png) no-repeat;background-position:0 -259px;background-position:0 -236px}.about{text-align:center;width:960px;clear:both;height:100px;overflow:hidden;position:relative}.about
+a{width:100%;color:#384349}.about a:hover{color:#008000}.about
+a.fk{padding-left:15px;color:#ff7c2d}.about a:hover.fk{color:#ff7c2d}.pageitem_active{padding:0
+.4em;height:18px;line-height:18px;background:#2F95E0;border:1px
+solid #ccc;color:#fff;font-size:16px}.pageitem_active:hover,.pageitem_active:active,.pageitem_active:focus{text-decoration:none;color:#fff;background:#2F95E0}.pageitem{padding:0
+.4em;height:18px;line-height:18px;background:#fff;border:1px
+solid #ccc;color:#000;font-size:16px}.pageitem:hover,.pageitem:active,.pageitem:focus{text-decoration:none;color:#fff;background:#2F95E0}.clear{clear:both}#GameKey{margin:0px;padding:0px}#GameKey
+ul{padding:0
+0 3px 0;float:left;list-style:none}#GameKey ul
+li{float:left;height:32px;text-align:left;line-height:24px;white-space:nowrap;font-size:12px;padding:0
+5px 0 0;margin-top:5px;display:list-item}#GameKey
+.player1{height:23px;width:66px;font-size:0px;line-height:23px;margin-top:3px;margin-left:5px;background:url(/game/assets/img/gameguide_keys.gif) no-repeat;background-position:0px -702px}#GameKey
+.ico_c_space{width:78px;height:32px;display:inline-block;background:url(/game/assets/img/gameguide_keys.gif) 0 -330px no-repeat}#GameKey
+.ico_c_wasd{width:53px;height:35px;line-height:35px;display:inline-block;background:url(/game/assets/img/gameguide_keys.gif) 0 -587px no-repeat}#GameKey
+.ico_key{width:23px;height:28px;line-height:22px;display:block;font-weight:bold;text-align:center;font:bold 9px/18px Verdana,"宋体",Arial,Helvetica,sans-serif;color:#363636;background:url(/game/assets/img/gameguide_keys.gif) 0 -554px no-repeat}#GameKey
+.player2{height:23px;width:66px;font-size:0px;line-height:23px;margin-top:3px;margin-left:5px;display:inline-block;background:url(/game/assets/img/gameguide_keys.gif) 0px -728px no-repeat}#GameKey
+.ico_c_arrows{height:35px;line-height:35px;width:53px;display:inline-block;background:url(/game/assets/img/gameguide_keys.gif)  0 -628px no-repeat}#GameKey
+.ico_arrow_left{height:21px;line-height:21px;width:24px;display:inline-block;background:url(/game/assets/img/gameguide_keys.gif)  0 -363px no-repeat}#GameKey
+.ico_arrow_right{height:21px;line-height:21px;width:24px;display:inline-block;background:url(/game/assets/img/gameguide_keys.gif)  0 -396px no-repeat}#GameKey
+.ico_arrow_left_right{height:21px;line-height:21px;width:50px;display:inline-block;background:url(/game/assets/img/gameguide_keys.gif)  0 -491px no-repeat}#GameKey
+.ico_arrow_up{height:21px;line-height:21px;width:24px;display:inline-block;background:url(/game/assets/img/gameguide_keys.gif)  0 -428px no-repeat}#GameKey
+.ico_c_ud{width:48px;height:25px;line-height:25px;display:inline-block;background:url(/game/assets/img/gameguide_keys.gif) 0 -523px no-repeat}#GameKey
+.ico_c_lr{width:55px;height:25px;display:inline-block;line-height:25px;background:url(/game/assets/img/gameguide_keys.gif) 0 -489px no-repeat}#GameKey
+.ico_c_blank{width:24px;height:28px;display:inline-block;background:url(/game/assets/img/gameguide_keys.gif) 0 -550px no-repeat}#GameKey
+.ico_arrow_down{height:21px;line-height:21px;width:24px;display:inline-block;background:url(/game/assets/img/gameguide_keys.gif)  0 -460px no-repeat}#GameKey
+.ico_arrow_up_down{height:21px;line-height:21px;width:50px;display:inline-block;background:url(/game/assets/img/gameguide_keys.gif)  0 -523px no-repeat}#GameKey
+.ico_c_up{width:23px;height:23px;display:inline-block;background:url(/game/assets/img/gameguide_keys.gif)  0 -426px no-repeat}#GameKey
+.ico_c_down{width:23px;height:23px;display:inline-block;background:url(/game/assets/img/gameguide_keys.gif)  0 -458px no-repeat}#GameKey
+.ico_c_left{width:23px;height:23px;display:inline-block;background:url(/game/assets/img/gameguide_keys.gif) 0 -362px no-repeat}#GameKey
+.ico_c_right{width:23px;height:23px;display:inline-block;background:url(/game/assets/img/gameguide_keys.gif) 0 -394px no-repeat}#GameKey
+.ico_c_end{width:38px;height:25px;display:inline-block;line-height:25px;background:url(/game/assets/img/gameguide_keys.gif) 0 -298px no-repeat}#GameKey
+.ico_c_tab{width:38px;height:25px;display:inline-block;line-height:25px;background:url(/game/assets/img/gameguide_keys.gif) 0 -266px no-repeat}#GameKey ul li
+span{float:left;padding:0
+3px 0 0px}#GameKey
+.ico_c_enter{width:48px;height:25px;display:inline-block;background:url(/game/assets/img/gameguide_keys.gif) 0 -170px no-repeat}#GameKey
+.ico_c_shift{width:48px;height:25px;line-height:25px;display:inline-block;background:url(/game/assets/img/gameguide_keys.gif) 0 -202px no-repeat}#GameKey
+.ico_c_ctrl{width:41px;height:25px;line-height:25px;display:inline-block;background:url(/game/assets/img/gameguide_keys.gif) 0 -234px no-repeat}#GameKey
+.ico_c_drag{width:24px;height:25px;line-height:25px;display:inline-block;background:url(/game/assets/img/gameguide_keys.gif) 0 -105px no-repeat}#GameKey
+.ico_c_alt{width:38px;height:25px;line-height:25px;display:inline-block;background:url(/game/assets/img/gameguide_keys.gif) 0 -138px no-repeat}#GameKey
+.ico_c_mouseleft{width:20px;height:31px;line-height:31px;display:inline-block;background:url(/game/assets/img/gameguide_keys.gif) 0 0  no-repeat}#GameKey
+.ico_c_mousescroll{width:24px;height:31px;line-height:31px;display:inline-block;background:url(/game/assets/img/gameguide_keys.gif) 0 -35px  no-repeat}#GameKey
+.ico_c_mousemove{width:24px;height:31px;line-height:31px;display:inline-block;background:url(/game/assets/img/gameguide_keys.gif) 0 -69px no-repeat}#GameKey
+.ico_c_esc{width:41px;height:25px;line-height:25px;display:inline-block;background:url(/game/assets/img/gameguide_keys.gif) -45px -30px no-repeat}#GameKey
+.ico_c_delete{width:51px;height:25px;line-height:25px;display:inline-block;background:url(/game/assets/img/gameguide_keys.gif) -45px 0px no-repeat}.game-txt{display:inline-block;height:17px;overflow:hidden}.game_toolbar{float:left;position:relative;width:280px;padding:18px
+0 0 12px;z-index:15}.game_toolbar
+a{float:left;margin:0
+2px 0 0;display:block;width:48px;text-align:center;overflow:hidden;color:#666}.game_toolbar a
+em{display:block;height:33px;width:30px;cursor:pointer;margin:0
+auto;background:url(http://bcs.duapp.com/youxires/web/button_icons_v2.png) no-repeat}.game_toolbar .replay
+em{background-position:0 -270px}.game_toolbar .replay:hover
+em{background-position:0 -305px}.game_toolbar .full-screen
+em{background-position:-40px -270px}.game_toolbar .full-screen:hover
+em{background-position:-40px -305px}.game_toolbar .enlarge
+em{background-position:-80px -270px}.game_toolbar .enlarge:hover
+em{background-position:-80px -305px}.game_toolbar .narrow
+em{background-position:-120px -270px}.game_toolbar .narrow:hover
+em{background-position:-120px -305px}.game_toolbar .download
+em{background-position:-160px -270px}.game_toolbar .download:hover
+em{background-position:-160px -305px}.game_toolbar .assess
+em{background-position:0 -340px}.game_toolbar .assess:hover
+em{background-position:0 -375px}.game_toolbar .share
+em{margin:0
+0 0 9px;background-position:-40px -340px}.game_toolbar .share
+em{margin:0
+0 0 9px;background-position:-40px -375px}.fixie_border_img{border:none;border-width:0px}.flashloadingbar{position:relative;width:670px;height:20px;border:1px
+solid #0F85DD;text-align:left;margin:0px;padding:0px;display:block}.flashloadingbar
+div{width:0px;text-align:center;display:block;position:relative;background:#0F85DD;color:#333;height:20px;line-height:20px}.flashloadingbar div
+span{position:absolute;width:655px;text-align:center;font-weight:bold;height:20px;line-height:20px}.topindex_slidegame{width:538px;position:relative;margin-top:15px;overflow:hidden}.topindex_slidegamewrapper{margin:0px;padding:0px
+15px 0px 15px;overflow:hidden;width:484px;float:right}.topindex_slidegamecontent{margin:0px
+0px 0px 0px;padding:0px
+0px;overflow:hidden;width:484px;position:relative}.topindex_slidetoleft{background-image:url(http://bcs.duapp.com/youxires/web/button_icons_v2.png);background-repeat:no-repeat;background-position:-237px -256px;position:absolute;width:8px;height:12px;top:16px;left:20px;cursor:pointer}.topindex_slidetoright{background-image:url(http://bcs.duapp.com/youxires/web/button_icons_v2.png);background-repeat:no-repeat;background-position:-237px -278px;position:absolute;width:8px;height:12px;top:16px;left:527px;cursor:pointer}.topindex_slideul{width:100000px;text-align:left;margin:0px
+0px 0px 0px;padding:0px;list-style:none}.topindex_slideul
+li{vertical-align:top;margin:0
+14px 0 0;position:relative;font-size:12px;display:inline-block;text-align:center;padding:0;list-style:none;float:left}.gamebox{padding:0px;background:#fcfcfc}.modtab{float:left;width:85px;height:45px;border-bottom:3px solid #CCC;text-align:center;font-size:14px;cursor:pointer;list-style:none;color:#000}.modtab_current{border-bottom:3px solid #0C81DB;color:#0C81DB}.tabs_txt{display:block;height:20px;margin-top:12px;text-align:center;font-size:14px;cursor:pointer}.sw_wrapper{width:980px;margin:0
+auto;background:#fff}.sw_friendlink
+span{color:#f60;font-weight:bold}.sw_friendlink{border:1px
+solid #e0e0e0;margin-top:10px;padding:6px
+10px}.sw_friendlink
+a{color:#666;padding-right:11px;display:inline-block;white-space:nowrap;outline:0
+none}.sw_friendlink a:hover{color:#f60}.sw_footer{width:980px;margin:23px
+auto 0;padding:0
+0 20px;text-align:center;line-height:25px;background:#fff;font-family:Arial,Helvetica,SimSun,san-serif}";i:1;N;}

@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Slide Games</title>
+<style type="text/css">
+.slidegame
+{
+	width: 527px;
+	position:relative;
+}
+.slidegamewrapper
+{
+	margin:0px;
+	padding:0px 15px 0px 15px;
+	overflow:hidden;
+	
+}
+.slidegamecontent
+{
+	margin:0px 0px 0px 0px;
+	padding:0px 0px;
+	overflow:hidden;
+}
+
+.slidetoleft
+{
+	background-image: url(/game/assets/img/button_icons.png);
+	background-repeat: no-repeat;
+	background-position: -237px -256px;
+	position:absolute;
+	width:8px;
+	height:12px;
+	top:15px;
+	cursor:pointer;
+}
+
+.slidetoright
+{
+	background-image: url(/game/assets/img/button_icons.png);
+	background-repeat: no-repeat;
+	background-position: -237px -278px;
+	position:absolute;
+	width:8px;
+	height:12px;
+	top:15px;
+	left:515px;
+	cursor:pointer;
+}
+
+.slideul
+{
+	width:100000px;
+	text-align:left;
+	margin: 0px 0px 0px 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+.slideul li
+{
+	vertical-align: top;
+	margin: 0 14px 0 0;
+	position: relative;
+	font-size: 12px;
+	display: inline-block;
+	text-align: center;
+	padding: 0;
+	list-style: none;
+}
+</style>
+
+<script type="text/javascript">
+function slideToLeft(){
+	var obj = document.getElementById("slideul");
+	if(obj != null){
+		console.log(obj.style.marginLeft);
+		obj.style.marginLeft = "0px";
+	}else{
+		console.log("can not find obj");
+	}
+}
+
+function slideToRight(){
+	var obj = document.getElementById("slideul");
+	if(obj != null){
+		console.log(obj.style.marginLeft);
+		obj.style.marginLeft = "-527px";
+	}else{
+		console.log("can not find obj");
+	}
+}
+</script>
+</head>
+
+<body style="margin:0px padding:0px;">
+	<div class="slidegame">
+		<div class="slidegamewrapper">
+			<div class="slidegamecontent">
+				<ul class="slideul" id="slideul">
+					<li>
+						<a href="http://web.7k7k.com/games/qxz1/?t=zz-sydb" target="_blank">
+							<img src="/game/assets/img/adv/index_top_webgame/1.jpg" alt="" width="65" height="47">
+						</a>
+					</li>
+					<li>
+						<a href="http://web.7k7k.com/games/qxz1/?t=zz-sydb" target="_blank">
+							<img src="/game/assets/img/adv/index_top_webgame/1.jpg" alt="" width="65" height="47">
+						</a>
+					</li>
+					<li>
+						<a href="http://web.7k7k.com/games/qxz1/?t=zz-sydb" target="_blank">
+							<img src="/game/assets/img/adv/index_top_webgame/1.jpg" alt="" width="65" height="47">
+						</a>
+					</li>
+					<li>
+						<a href="http://web.7k7k.com/games/qxz1/?t=zz-sydb" target="_blank">
+							<img src="/game/assets/img/adv/index_top_webgame/1.jpg" alt="" width="65" height="47">
+						</a>
+					</li>
+					<li>
+						<a href="http://web.7k7k.com/games/qxz1/?t=zz-sydb" target="_blank">
+							<img src="/game/assets/img/adv/index_top_webgame/1.jpg" alt="" width="65" height="47">
+						</a>
+					</li>
+					<li>
+						<a href="http://web.7k7k.com/games/qxz1/?t=zz-sydb" target="_blank">
+							<img src="/game/assets/img/adv/index_top_webgame/1.jpg" alt="" width="65" height="47">
+						</a>
+					</li>
+					<li>
+						<a href="http://web.7k7k.com/games/qxz1/?t=zz-sydb" target="_blank">
+							<img src="/game/assets/img/adv/index_top_webgame/1.jpg" alt="" width="65" height="47">
+						</a>
+					</li>
+					<li>
+						<a href="http://web.7k7k.com/games/qxz1/?t=zz-sydb" target="_blank">
+							<img src="/game/assets/img/adv/index_top_webgame/1.jpg" alt="" width="65" height="47">
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>	
+		<div class="slidetoleft" onclick="slideToLeft();"></div>
+		<div class="slidetoright" onclick="slideToRight();"></div>
+	</div>
+</body>
+</html>

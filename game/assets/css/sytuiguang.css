@@ -1,0 +1,41 @@
+﻿@charset "utf-8";
+
+.sw_wrapper
+{
+width: 980px;
+margin: 0 auto;
+background:#fff;
+}
+
+.sw_friendlink span {
+color: #f60;
+font-weight: bold;
+}
+
+.sw_friendlink {
+border: 1px solid #e0e0e0;
+margin-top: 10px;
+padding: 6px 10px;
+}
+
+.sw_friendlink a {
+color: #666;
+padding-right: 11px;
+display: inline-block;
+white-space: nowrap;
+outline: 0 none;
+}
+
+.sw_friendlink a:hover{
+color:#f60;
+}
+
+.sw_footer {
+width: 980px;
+margin: 23px auto 0;
+padding: 0 0 20px;
+text-align: center;
+line-height: 25px;
+background:#fff;
+font-family: Arial, Helvetica, SimSun, san-serif;
+}
