@@ -6,6 +6,9 @@
 [http://woyouxi.shishengyi.pub](http://woyouxi.shishengyi.pub)
 
 整体界面效果如下图所示:
+![我游戏](http://codingsky.oss-cn-hangzhou.aliyuncs.com/cdn/myblog/woyouxi_screenshot.png)
+
+> 很多图片显示成默认的游戏手柄是因为运营时，先使用了百度的云存储，后来又改用阿里的云存储，停止运营后，百度的账号就再没有充值，从而使得资源被释放了
 
 
 ## 部署
@@ -37,8 +40,6 @@ git clone https://github.com/shishengyi/WoYouXi.git
 chmod -R 777 game/protected/runtime
 ```
 
-##  
-##  
-##  
+<br/><br/>
 
 现在，可以试着访问站点了。
