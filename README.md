@@ -4,6 +4,7 @@
 
 查看示例站点，可以前往：
 [http://woyouxi.shishengyi.pub](http://woyouxi.shishengyi.pub)
+> 此站点现在仅供做为示例显示，所以速度会比较慢
 
 整体界面效果如下图所示:
 ![我游戏](https://github.com/shishengyi/WoYouXi/raw/master/readme/woyouxi_screenshot.png)
