@@ -34,8 +34,11 @@
 ```
 cd /var/www/woyouxi
 git clone https://github.com/shishengyi/WoYouXi.git
-chmod 777 game/protected/runtime
+chmod -R 777 game/protected/runtime
 ```
 
+##  
+##  
+##  
 
 现在，可以试着访问站点了。
