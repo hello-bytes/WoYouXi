@@ -32,7 +32,7 @@ return array(
 			'password' => '111111',
 			'charset' => 'utf8',
 		),
-		
+
 		'errorHandler'=>array(
 			// use 'site/error' action to display errors
             'errorAction'=>'site/error',
@@ -56,7 +56,7 @@ return array(
         		'xiuxiang/<order:\d+>_<page:\d+>'=>array('catalog/xiuxiang','urlSuffix'=>'.html'),
        		 	'zhuangban/<order:\d+>_<page:\d+>'=>array('catalog/zhuangban','urlSuffix'=>'.html'),
         		'ertong/<order:\d+>_<page:\d+>'=>array('catalog/ertong','urlSuffix'=>'.html'),
-        		
+
         		'yizhi/subject/<subjectid:\d+>_<order:\d+>'=>array('catalog/yizhi','urlSuffix'=>'.html'),
         		'dongzuo/subject/<subjectid:\d+>_<order:\d+>'=>array('catalog/dongzuo','urlSuffix'=>'.html'),
         		'yundong/subject/<subjectid:\d+>_<order:\d+>'=>array('catalog/yundong','urlSuffix'=>'.html'),
@@ -68,7 +68,7 @@ return array(
         		'xiuxiang/subject/<subjectid:\d+>_<order:\d+>'=>array('catalog/xiuxiang','urlSuffix'=>'.html'),
        		 	'zhuangban/subject/<subjectid:\d+>_<order:\d+>'=>array('catalog/zhuangban','urlSuffix'=>'.html'),
         		'ertong/subject/<subjectid:\d+>_<order:\d+>'=>array('catalog/ertong','urlSuffix'=>'.html'),
-        
+
         		'yizhi/subject/<subjectid:\d+>_<order:\d+>/<page:\d+>'=>array('catalog/yizhi','urlSuffix'=>'.html'),
         		'dongzuo/subject/<subjectid:\d+>_<order:\d+>/<page:\d+>'=>array('catalog/dongzuo','urlSuffix'=>'.html'),
         		'yundong/subject/<subjectid:\d+>_<order:\d+>/<page:\d+>'=>array('catalog/yundong','urlSuffix'=>'.html'),
@@ -80,10 +80,10 @@ return array(
         		'xiuxiang/subject/<subjectid:\d+>_<order:\d+>/<page:\d+>'=>array('catalog/xiuxiang','urlSuffix'=>'.html'),
        		 	'zhuangban/subject/<subjectid:\d+>_<order:\d+>/<page:\d+>'=>array('catalog/zhuangban','urlSuffix'=>'.html'),
         		'ertong/subject/<subjectid:\d+>_<order:\d+>/<page:\d+>'=>array('catalog/ertong','urlSuffix'=>'.html'),
-        
+
         		'site/new/<page:\d+>'=>array('site/new','urlSuffix'=>'.html'),
         		'site/top/<catalog:\d+>_<day:\d+>'=>array('site/top','urlSuffix'=>'.html'),
-        
+
         		'<controller:\w+>/<action:\w+>/<page:\d+>'=>'<controller>/<action>',
         	),
         ),
@@ -98,14 +98,14 @@ return array(
 		),
 		'clientScript'=>array(
 				'class'=>'application.extensions.minScript.components.ExtMinScript',
-				
+
 			),
 	),
-	
+
 	'controllerMap'=>array(
 		'min'=>array(
 			'class'=>'application.extensions.minScript.controllers.ExtMinScriptController',
-			
+
 		),
 	),
 
@@ -139,15 +139,13 @@ return array(
 		// uncomment the following to use a MySQL database
 		'db'=>array(
 			//'connectionString' => 'mysql:host=svridx64ddc063d.mysql.duapp.com;port=10039;dbname=svridx64ddc063d',
-			'connectionString' => 'mysql:host=woyouxi1.mysql.rds.aliyuncs.com;port=3306;dbname=woyouxi',
+			'connectionString' => 'mysql:host=127.0.0.1;dbname=bae_pub',
 			'emulatePrepare' => true,
-			//'username' => 'bae',
-			//'password' => '2aELEySjaMgaNZT1WFyqddXPEXDhUSrI',
-			'username' => 'shishengyi',
-			'password' => 'newdbnewhope',
+			'username' => 'root',
+			'password' => '111111',
 			'charset' => 'utf8',
 		),
-		
+
 		'errorHandler'=>array(
 			// use 'site/error' action to display errors
             'errorAction'=>'site/error',
@@ -171,7 +169,7 @@ return array(
         		'xiuxiang/<order:\d+>_<page:\d+>'=>array('catalog/xiuxiang','urlSuffix'=>'.html'),
        		 	'zhuangban/<order:\d+>_<page:\d+>'=>array('catalog/zhuangban','urlSuffix'=>'.html'),
         		'ertong/<order:\d+>_<page:\d+>'=>array('catalog/ertong','urlSuffix'=>'.html'),
-        		
+
         		'yizhi/subject/<subjectid:\d+>_<order:\d+>'=>array('catalog/yizhi','urlSuffix'=>'.html'),
         		'dongzuo/subject/<subjectid:\d+>_<order:\d+>'=>array('catalog/dongzuo','urlSuffix'=>'.html'),
         		'yundong/subject/<subjectid:\d+>_<order:\d+>'=>array('catalog/yundong','urlSuffix'=>'.html'),
@@ -183,7 +181,7 @@ return array(
         		'xiuxiang/subject/<subjectid:\d+>_<order:\d+>'=>array('catalog/xiuxiang','urlSuffix'=>'.html'),
        		 	'zhuangban/subject/<subjectid:\d+>_<order:\d+>'=>array('catalog/zhuangban','urlSuffix'=>'.html'),
         		'ertong/subject/<subjectid:\d+>_<order:\d+>'=>array('catalog/ertong','urlSuffix'=>'.html'),
-        
+
         		'yizhi/subject/<subjectid:\d+>_<order:\d+>/<page:\d+>'=>array('catalog/yizhi','urlSuffix'=>'.html'),
         		'dongzuo/subject/<subjectid:\d+>_<order:\d+>/<page:\d+>'=>array('catalog/dongzuo','urlSuffix'=>'.html'),
         		'yundong/subject/<subjectid:\d+>_<order:\d+>/<page:\d+>'=>array('catalog/yundong','urlSuffix'=>'.html'),
@@ -195,10 +193,10 @@ return array(
         		'xiuxiang/subject/<subjectid:\d+>_<order:\d+>/<page:\d+>'=>array('catalog/xiuxiang','urlSuffix'=>'.html'),
        		 	'zhuangban/subject/<subjectid:\d+>_<order:\d+>/<page:\d+>'=>array('catalog/zhuangban','urlSuffix'=>'.html'),
         		'ertong/subject/<subjectid:\d+>_<order:\d+>/<page:\d+>'=>array('catalog/ertong','urlSuffix'=>'.html'),
-        
+
         		'site/new/<page:\d+>'=>array('site/new','urlSuffix'=>'.html'),
         		'site/top/<catalog:\d+>_<day:\d+>'=>array('site/top','urlSuffix'=>'.html'),
-        
+
         		'<controller:\w+>/<action:\w+>/<page:\d+>'=>'<controller>/<action>',
         	),
         ),
@@ -213,14 +211,14 @@ return array(
 		),
 		'clientScript'=>array(
 				'class'=>'application.extensions.minScript.components.ExtMinScript',
-				
+
 			),
 	),
-	
+
 	'controllerMap'=>array(
 		'min'=>array(
 			'class'=>'application.extensions.minScript.controllers.ExtMinScriptController',
-			
+
 		),
 	),
 
